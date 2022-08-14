@@ -42,8 +42,8 @@
 
 ### CHAPTER 06 ( Testing And Evaluation )
 - INTRODUCTION
-- EVALUATION
 - TESTING
+- EVALUATION
 - CONCLUSION
 
 ### CHAPTER 07 ( Conclusion And Future Work )
